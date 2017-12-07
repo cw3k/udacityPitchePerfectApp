@@ -1,5 +1,5 @@
 //
-//  PlaySoudsViewController.swift
+//  PlaySoundsViewController.swift
 //  PitchPerfect
 //
 //  Created by Winston Churchill Bowen Jr on 12/3/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class PlaySoudsViewController: NSObject {
+class PlaySoundsViewController: NSObject {
     
     var recordedAudioURL: URL!
 
